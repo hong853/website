@@ -1,4 +1,5 @@
-git clone https://github.com/BePsvPT/Facebook-Anonymous-Publisher.git
+#!/bin/bash
+set -e 
 
 cp .env.example .env
 
